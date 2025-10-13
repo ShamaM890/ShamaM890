@@ -1,53 +1,35 @@
-[![GitHub Banner](https://i.pinimg.com/originals/55/93/94/5593949f5f65b4a1b9e6710f77239420.gif)](https://github.com/ShamaM890)
+[![GitHub Banner](https://i.pinimg.com/originals/f7/43/1e/f7431e3ff3b994c015f43cde42c5f2d1.gif)](https://github.com/ShamaM890)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Parisienne&color=FF69B4&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Shama+Maheen+;A+Creative+Flutter+Developer+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=38&color=FF69B4&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hey+there!+🌸+I'm+Shama+Maheen;Flutter+Developer+💙;Creative+Web+Designer+✨;UI%2FUX+Enthusiast+💻" />
 </h1>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f7/f8/b7/f7f8b7a52733e7a2b5305f47a47cf353.gif" width="45%" height="95px">
-</div>
-
-<img align="right" src="https://i.pinimg.com/originals/fc/9a/47/fc9a47840df506f7f4af6b8a77c8cba5.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://i.pinimg.com/originals/4a/8c/3f/4a8c3f6db4a0b4d51b8573e0cf6828e0.gif" alt="Coding Girl" width="360" height="280">
 
 ### 👩‍💻 About Me  
-**I'm Shama Maheen**, a passionate **Flutter Developer** and **Creative Web Designer** from *Rahim Yar Khan, South Punjab, Pakistan.*  
-I love transforming ideas into visually engaging, intuitive, and user-friendly digital experiences.  
-Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app development** — always learning, always evolving 💫.
+I'm **Shama Maheen**, a passionate **Flutter Developer** and **Creative Web Designer** from **Pakistan 🇵🇰**.  
+I love turning ideas into elegant, user-friendly digital experiences. My work combines design thinking with modern technology to build meaningful products.
 
 ---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ShamaM890&label=Profile%20views&color=ff69b4&style=flat" alt="ShamaM890" /> 
-</p>
-
-- 🔭 I’m currently working on **Education App (Flutter)**  
-- 🌱 I’m exploring **Firebase Integration** & **Animations in Flutter**  
-- 💬 Ask me about **Flutter, Dart, and UI/UX Design**  
-- 📫 Reach me at **shamamaheen@gmail.com**  
-- 💖 Fun fact: *I design with heart and code with purpose.*
+### 🌷 What I Do
+- 🎨 Craft **beautiful Flutter UIs** with clean architecture  
+- 🌍 Design and develop **responsive websites**  
+- ⚡ Focus on **performance, design, and user experience**  
+- 🌱 Currently exploring **Dart & Flutter APIs**  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌸 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/shama-maheen" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/923087655076" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-  <a href="https://github.com/ShamaM890" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/shama-m-b8ab022a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tools & Technologies
 <p align="center"> 
   <table> 
     <tr> 
@@ -58,13 +40,13 @@ Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app devel
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart 
       </td> 
       <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/><br>Firebase 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="VS Code"/><br>VS Code 
       </td> 
       <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br>Android Studio 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git 
       </td> 
       <td align="center" width="100"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/><br>Figma 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" width="40" height="40" alt="Illustrator"/><br>Illustrator 
       </td> 
     </tr> 
   </table> 
@@ -72,31 +54,17 @@ Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app devel
 
 ---
 
-### 📊 GitHub Stats & Activity
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamaM890&layout=compact&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamaM890&show_icons=true&theme=rose_pine" alt="Shama's GitHub stats"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamaM890&bg_color=ffebf0&color=cc3366&line=ff69b4&point=cc6699&area=true&hide_border=true" alt="Shama's GitHub Activity" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ShamaM890">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShamaM890&theme=rose_pine" />
-  </a>
-  <a href="https://github.com/ShamaM890">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamaM890&hide_border=true&card_width=338&theme=rose_pine" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamaM890&theme=rose_pine&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/56/36/64/563664df024a8eac8c097eb1b46c7741.gif" alt="Footer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
 </div>
-
----
-
-<h3 align="center">💫 “Code like a queen, design like an artist.” 👑</h3>
