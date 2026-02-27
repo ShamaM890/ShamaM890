@@ -24,7 +24,7 @@ Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app devel
 - 🔭 I’m currently working on **Education App (Flutter)**  
 - 🌱 I’m exploring **Firebase Integration** & **Animations in Flutter**  
 - 💬 Ask me about **Flutter, Dart, and UI/UX Design**  
-- 📫 Reach me at **shamamaheen@gmail.com**  
+- 📫 Reach me at **shamamaheen21@gmail.com**  
 - 💖 Fun fact: *I design with heart and code with purpose.*
 
 ---
