@@ -11,7 +11,7 @@
 <img align="right" src="https://i.pinimg.com/originals/fc/9a/47/fc9a47840df506f7f4af6b8a77c8cba5.gif" alt="Coding Girl" width="370" height="270">
 
 ### 👩‍💻 About Me  
-**I'm Shama Maheen**, a passionate **Flutter Developer** and **Creative Web Designer** from *Rahim Yar Khan, South Punjab, Pakistan.*  
+**I'm Shama Maheen**, a passionate **Flutter Developer** and **Creative Web Designer** from * Bahawalpur, South Punjab, Pakistan.*  
 I love transforming ideas into visually engaging, intuitive, and user-friendly digital experiences.  
 Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app development** — always learning, always evolving 💫.
 
@@ -24,7 +24,7 @@ Currently, I’m mastering **Flutter**, **UI/UX design**, and **mobile app devel
 - 🔭 I’m currently working on **Education App (Flutter)**  
 - 🌱 I’m exploring **Firebase Integration** & **Animations in Flutter**  
 - 💬 Ask me about **Flutter, Dart, and UI/UX Design**  
-- 📫 Reach me at **shamamaheen@gmail.com**  
+- 📫 Reach me at **maheenshama@gmail.com**  
 - 💖 Fun fact: *I design with heart and code with purpose.*
 
 ---
